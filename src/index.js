@@ -1,2 +1,2 @@
 import './sass/main.scss';
-// import './js/snow.js';
+import './js/snow.js';
