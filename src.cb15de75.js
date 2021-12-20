@@ -5,4 +5,4 @@ let e,s,o,t=40,n=new Array("#b9dff5","#7fc7ff","#7fb1ff","#7fc7ff","#b9dff5"),p=
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/snow.js");
 },{"./sass/main.scss":"clu1","./js/snow.js":"cKsY"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.5453961e.js.map
+//# sourceMappingURL=/snow/src.cb15de75.js.map
